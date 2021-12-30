@@ -1,0 +1,15 @@
+body{
+    background-color:pink;
+}
+h1{
+    color : cornflowerblue;
+    transition:color .5s ease-in-out
+}
+.sexy-font{
+    color : red;
+}
+
+.clicked {
+    color : tomato;
+} 
+/* 이거를 js에서 적용하게 하면 html에 적용하게 */
